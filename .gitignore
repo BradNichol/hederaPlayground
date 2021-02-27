@@ -34,3 +34,5 @@ build/
 
 # environment variables
 .env
+
+.gradle/
